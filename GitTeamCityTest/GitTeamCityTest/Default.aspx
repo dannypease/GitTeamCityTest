@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h2>Hello Git Team City! TEsting 1 2 3 4 5 6</h2>
+        <h2>Hello Git Team City! TEsting 1 2 3 4 5 6 </h2>
     </div>
     </form>
 </body>
